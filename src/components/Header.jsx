@@ -9,7 +9,7 @@ function Header() {
     const navlinks = [
         {
             title: "Home",
-            path: "/home"
+            path: "/"
         },
         {
             title: "About",
@@ -49,7 +49,12 @@ function Header() {
                                     <i className="fa-solid fa-bars"></i>
                                 </button>
                                 <div className='text-3xl cursor-pointer font-medium text-slate-200 hover:text-white transition-all duration-150'>
-                                    <i className="fa-brands fa-github"></i>
+                                   <a
+                                    href="https://github.com/nitindiwakar123/beginner-dev"
+                                    target='_blank'
+                                    >
+                                        <i className="fa-brands fa-github"></i>
+                                    </a>
                                 </div>
                             </div>
                         </div>
