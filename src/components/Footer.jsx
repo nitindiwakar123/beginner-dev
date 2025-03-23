@@ -2,7 +2,9 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div>Footer</div>
+    <div className='w-full flex justify-center items-center'>
+      <p className='text-gray-400'>© 2025 BeginnerDev. All rights reserved.</p>
+    </div>
   )
 }
 

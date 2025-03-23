@@ -8,6 +8,9 @@ import Slide from "./Slide";
 import Container from "./Container";
 import AboutCard from "./AboutCard";
 import AboutHero from "./AboutHero";
+import ProjectCard from "./ProjectCard";
+import Demo from "./Demo";
+import Code from "./Code";
 
 export {
     Header,
@@ -19,5 +22,8 @@ export {
     Slide,
     Container,
     AboutCard,
-    AboutHero
+    AboutHero,
+    ProjectCard,
+    Demo,
+    Code
 }
