@@ -35,17 +35,18 @@ function Project() {
       <Container className='mt-20'>
         {currProject &&
           <Demo
-            url={currProject.link}
+            url={currProject.htmlPath}
             title={currProject.title}
           />}
       </Container>
 
-      <Container className='mt-20'>
+      <Container className='my-20'>
         {currProject &&
           <Code
             id={currProject.id}
-            path={currProject.link}
-            title={currProject.title}
+            htmlPath={currProject.htmlPath}
+            cssPath={currProject.cssPath}
+            jsPath={currProject.jsPath}
           />
         }
       </Container>

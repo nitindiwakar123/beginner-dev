@@ -3,408 +3,510 @@
         "id": 1,
         "title": "3d Dice Roll",
         "image": "",
-        "link": "../projects/3d-dice-roll/index.html",
         "source": "",
-        "bio": "This project simulates a 3D dice roll using HTML, CSS, and JavaScript. It's a fun and interactive way to understand basic animations and transformations in web development. Perfect for beginners to learn how to create dynamic visual effects."
+        "bio": "This project simulates a 3D dice roll using HTML, CSS, and JavaScript. It's a fun and interactive way to understand basic animations and transformations in web development. Perfect for beginners to learn how to create dynamic visual effects.",
+        "htmlPath": "/projects/3d-dice-roll/index.html",
+        "cssPath": "/projects/3d-dice-roll/style.css",
+        "jsPath": "/projects/3d-dice-roll/script.js"
     },
     {
         "id": 2,
         "title": "Progress Bar",
         "image": "",
-        "link": "../projects/progress-bar/index.html",
         "source": "",
-        "bio": "A simple progress bar project that demonstrates how to create and animate progress bars using HTML, CSS, and JavaScript. It's a great way to learn about animations and dynamic updates in web development."
+        "bio": "A simple progress bar project that demonstrates how to create and animate progress bars using HTML, CSS, and JavaScript. It's a great way to learn about animations and dynamic updates in web development.",
+        "htmlPath": "/projects/progress-bar/index.html",
+        "cssPath": "/projects/progress-bar/style.css",
+        "jsPath": "/projects/progress-bar/script.js"
     },
     {
         "id": 3,
         "title": "Sidebar",
         "image": "",
-        "link": "../projects/sidebar/index.html",
         "source": "",
-        "bio": "This project showcases a responsive sidebar menu using HTML, CSS, and JavaScript. It's ideal for beginners to understand how to create navigation menus that work seamlessly across different devices."
+        "bio": "This project showcases a responsive sidebar menu using HTML, CSS, and JavaScript. It's ideal for beginners to understand how to create navigation menus that work seamlessly across different devices.",
+        "htmlPath": "/projects/sidebar/index.html",
+        "cssPath": "/projects/sidebar/style.css",
+        "jsPath": "/projects/sidebar/script.js"
     },
     {
         "id": 4,
         "title": "Age Calculator",
         "image": "",
-        "link": "../projects/age-calculator/index.html",
         "source": "",
-        "bio": "An age calculator project that calculates a user's age based on their birthdate. It's a practical example of how to handle date inputs and perform calculations using JavaScript."
+        "bio": "An age calculator project that calculates a user's age based on their birthdate. It's a practical example of how to handle date inputs and perform calculations using JavaScript.",
+        "htmlPath": "/projects/age-calculator/index.html",
+        "cssPath": "/projects/age-calculator/style.css",
+        "jsPath": "/projects/age-calculator/script.js"
     },
     {
         "id": 5,
         "title": "Indian Flag",
         "image": "",
-        "link": "../projects/indian-flag/index.html",
         "source": "",
-        "bio": "A creative project that uses HTML and CSS to draw the Indian flag. It's a great way to learn about CSS positioning, gradients, and shapes."
+        "bio": "A creative project that uses HTML and CSS to draw the Indian flag. It's a great way to learn about CSS positioning, gradients, and shapes.",
+        "htmlPath": "/projects/indian-flag/index.html",
+        "cssPath": "/projects/indian-flag/style.css",
+        "jsPath": "/projects/indian-flag/script.js"
     },
     {
         "id": 6,
         "title": "Q And A",
         "image": "",
-        "link": "../projects/q&a/index.html",
         "source": "",
-        "bio": "A simple Q&A project where users can ask questions and get answers. It's a great way to learn about form handling and basic JavaScript logic."
+        "bio": "A simple Q&A project where users can ask questions and get answers. It's a great way to learn about form handling and basic JavaScript logic.",
+        "htmlPath": "/projects/q&a/index.html",
+        "cssPath": "/projects/q&a/style.css",
+        "jsPath": "/projects/q&a/script.js"
     },
     {
         "id": 7,
         "title": "Social Media Navigation",
         "image": "",
-        "link": "../projects/social-media-navigation/index.html",
         "source": "",
-        "bio": "This project demonstrates how to create a social media navigation bar using HTML and CSS. It's perfect for beginners to learn about styling and layout techniques."
+        "bio": "This project demonstrates how to create a social media navigation bar using HTML and CSS. It's perfect for beginners to learn about styling and layout techniques.",
+        "htmlPath": "/projects/social-media-navigation/index.html",
+        "cssPath": "/projects/social-media-navigation/style.css",
+        "jsPath": "/projects/social-media-navigation/script.js"
     },
     {
         "id": 8,
         "title": "Background Color Changer",
         "image": "",
-        "link": "../projects/background-color-changer/index.html",
         "source": "",
-        "bio": "A fun project that allows users to change the background color of a webpage dynamically. It's a great way to learn about event handling and DOM manipulation in JavaScript."
+        "bio": "A fun project that allows users to change the background color of a webpage dynamically. It's a great way to learn about event handling and DOM manipulation in JavaScript.",
+        "htmlPath": "/projects/background-color-changer/index.html",
+        "cssPath": "/projects/background-color-changer/style.css",
+        "jsPath": "/projects/background-color-changer/script.js"
     },
     {
         "id": 9,
         "title": "Loading Bar",
         "image": "",
-        "link": "../projects/loading-bar/index.html",
         "source": "",
-        "bio": "This project creates a loading bar animation using HTML, CSS, and JavaScript. It's a great way to learn about animations and how to simulate loading processes."
+        "bio": "This project creates a loading bar animation using HTML, CSS, and JavaScript. It's a great way to learn about animations and how to simulate loading processes.",
+        "htmlPath": "/projects/loading-bar/index.html",
+        "cssPath": "/projects/loading-bar/style.css",
+        "jsPath": "/projects/loading-bar/script.js"
     },
     {
         "id": 10,
         "title": "Quiz App",
         "image": "",
-        "link": "../projects/quiz-app/index.html",
         "source": "",
-        "bio": "A simple quiz app that tests users' knowledge on various topics. It's a great way to learn about handling user inputs, scoring, and dynamic content updates in JavaScript."
+        "bio": "A simple quiz app that tests users' knowledge on various topics. It's a great way to learn about handling user inputs, scoring, and dynamic content updates in JavaScript.",
+        "htmlPath": "/projects/quiz-app/index.html",
+        "cssPath": "/projects/quiz-app/style.css",
+        "jsPath": "/projects/quiz-app/script.js"
     },
     {
         "id": 11,
         "title": "Random Bg Changer",
         "image": "",
-        "link": "../projects/random-bg-changer/index.html",
         "source": "",
-        "bio": "This project changes the background color of a webpage randomly at regular intervals. It's a fun way to learn about JavaScript timing functions and DOM manipulation."
+        "bio": "This project changes the background color of a webpage randomly at regular intervals. It's a fun way to learn about JavaScript timing functions and DOM manipulation.",
+        "htmlPath": "/projects/random-bg-changer/index.html",
+        "cssPath": "/projects/random-bg-changer/style.css",
+        "jsPath": "/projects/random-bg-changer/script.js"
     },
     {
         "id": 12,
         "title": "Temprature Converter",
         "image": "",
-        "link": "../projects/temprature-converter/index.html",
         "source": "",
-        "bio": "A temperature converter project that converts temperatures between Celsius, Fahrenheit, and Kelvin. It's a great way to learn about form inputs and JavaScript calculations."
+        "bio": "A temperature converter project that converts temperatures between Celsius, Fahrenheit, and Kelvin. It's a great way to learn about form inputs and JavaScript calculations.",
+        "htmlPath": "/projects/temprature-converter/index.html",
+        "cssPath": "/projects/temprature-converter/style.css",
+        "jsPath": "/projects/temprature-converter/script.js"
     },
     {
         "id": 13,
         "title": "Bubble Game",
         "image": "",
-        "link": "../projects/bubble-game/index.html",
         "source": "",
-        "bio": "A fun bubble-popping game where users click on bubbles to score points. It's a great way to learn about game logic, event handling, and animations in JavaScript."
+        "bio": "A fun bubble-popping game where users click on bubbles to score points. It's a great way to learn about game logic, event handling, and animations in JavaScript.",
+        "htmlPath": "/projects/bubble-game/index.html",
+        "cssPath": "/projects/bubble-game/style.css",
+        "jsPath": "/projects/bubble-game/script.js"
     },
     {
         "id": 14,
         "title": "Mini Calendar",
         "image": "",
-        "link": "../projects/mini-calendar/index.html",
         "source": "",
-        "bio": "A mini calendar project that displays the current month and date. It's a great way to learn about JavaScript date objects and dynamic content rendering."
+        "bio": "A mini calendar project that displays the current month and date. It's a great way to learn about JavaScript date objects and dynamic content rendering.",
+        "htmlPath": "/projects/mini-calendar/index.html",
+        "cssPath": "/projects/mini-calendar/style.css",
+        "jsPath": "/projects/mini-calendar/script.js"
     },
     {
         "id": 15,
         "title": "Multiplication App",
         "image": "",
-        "link": "../projects/multiplication-app/index.html",
         "source": "",
-        "bio": "A simple multiplication app that helps users practice their multiplication tables. It's a great way to learn about form handling and JavaScript logic."
+        "bio": "A simple multiplication app that helps users practice their multiplication tables. It's a great way to learn about form handling and JavaScript logic.",
+        "htmlPath": "/projects/multiplication-app/index.html",
+        "cssPath": "/projects/multiplication-app/style.css",
+        "jsPath": "/projects/multiplication-app/script.js"
     },
     {
         "id": 16,
         "title": "Random Image Feed",
         "image": "",
-        "link": "../projects/random-image-feed/index.html",
         "source": "",
-        "bio": "This project displays a random image feed using an external API. It's a great way to learn about API integration and asynchronous JavaScript."
+        "bio": "This project displays a random image feed using an external API. It's a great way to learn about API integration and asynchronous JavaScript.",
+        "htmlPath": "/projects/random-image-feed/index.html",
+        "cssPath": "/projects/random-image-feed/style.css",
+        "jsPath": "/projects/random-image-feed/script.js"
     },
     {
         "id": 17,
         "title": "Random Password Generator",
         "image": "",
-        "link": "../projects/random-password-generator/index.html",
         "source": "",
-        "bio": "A random password generator that creates secure passwords based on user preferences. It's a great way to learn about JavaScript string manipulation and randomization."
+        "bio": "A random password generator that creates secure passwords based on user preferences. It's a great way to learn about JavaScript string manipulation and randomization.",
+        "htmlPath": "/projects/random-password-generator/index.html",
+        "cssPath": "/projects/random-password-generator/style.css",
+        "jsPath": "/projects/random-password-generator/script.js"
     },
     {
         "id": 18,
         "title": "To Do List",
         "image": "",
-        "link": "../projects/to-do-list/index.html",
         "source": "",
-        "bio": "A simple to-do list app that allows users to add, delete, and mark tasks as complete. It's a great way to learn about CRUD operations and local storage in JavaScript."
+        "bio": "A simple to-do list app that allows users to add, delete, and mark tasks as complete. It's a great way to learn about CRUD operations and local storage in JavaScript.",
+        "htmlPath": "/projects/to-do-list/index.html",
+        "cssPath": "/projects/to-do-list/style.css",
+        "jsPath": "/projects/to-do-list/script.js"
     },
     {
         "id": 19,
         "title": "Counter",
         "image": "",
-        "link": "../projects/counter/index.html",
         "source": "",
-        "bio": "A basic counter project that allows users to increment and decrement a number. It's a great way to learn about event handling and DOM manipulation in JavaScript."
+        "bio": "A basic counter project that allows users to increment and decrement a number. It's a great way to learn about event handling and DOM manipulation in JavaScript.",
+        "htmlPath": "/projects/counter/index.html",
+        "cssPath": "/projects/counter/style.css",
+        "jsPath": "/projects/counter/script.js"
     },
     {
         "id": 20,
         "title": "Note App",
         "image": "",
-        "link": "../projects/note-app/index.html",
         "source": "",
-        "bio": "A note-taking app that allows users to create, edit, and delete notes. It's a great way to learn about CRUD operations and local storage in JavaScript."
+        "bio": "A note-taking app that allows users to create, edit, and delete notes. It's a great way to learn about CRUD operations and local storage in JavaScript.",
+        "htmlPath": "/projects/note-app/index.html",
+        "cssPath": "/projects/note-app/style.css",
+        "jsPath": "/projects/note-app/script.js"
     },
     {
         "id": 21,
         "title": "Random Photos",
         "image": "",
-        "link": "../projects/random-photos/index.html",
         "source": "",
-        "bio": "This project displays random photos fetched from an external API. It's a great way to learn about API integration and asynchronous JavaScript."
+        "bio": "This project displays random photos fetched from an external API. It's a great way to learn about API integration and asynchronous JavaScript.",
+        "htmlPath": "/projects/random-photos/index.html",
+        "cssPath": "/projects/random-photos/style.css",
+        "jsPath": "/projects/random-photos/script.js"
     },
     {
         "id": 22,
         "title": "Random Quote Generator",
         "image": "",
-        "link": "../projects/random-quote-generator/index.html",
         "source": "",
-        "bio": "A random quote generator that displays inspirational quotes fetched from an external API. It's a great way to learn about API integration and DOM manipulation."
+        "bio": "A random quote generator that displays inspirational quotes fetched from an external API. It's a great way to learn about API integration and DOM manipulation.",
+        "htmlPath": "/projects/random-quote-generator/index.html",
+        "cssPath": "/projects/random-quote-generator/style.css",
+        "jsPath": "/projects/random-quote-generator/script.js"
     },
     {
         "id": 23,
         "title": "Real Time Character Counter",
         "image": "",
-        "link": "../projects/real-time-character-counter/index.html",
         "source": "",
-        "bio": "This project counts the number of characters entered in a text area in real-time. It's a great way to learn about event handling and DOM manipulation in JavaScript."
+        "bio": "This project counts the number of characters entered in a text area in real-time. It's a great way to learn about event handling and DOM manipulation in JavaScript.",
+        "htmlPath": "/projects/real-time-character-counter/index.html",
+        "cssPath": "/projects/real-time-character-counter/style.css",
+        "jsPath": "/projects/real-time-character-counter/script.js"
     },
     {
         "id": 24,
         "title": "Recipe Book App",
         "image": "",
-        "link": "../projects/recipe-book-app/index.html",
         "source": "",
-        "bio": "A recipe book app that allows users to add, view, and delete recipes. It's a great way to learn about CRUD operations and local storage in JavaScript."
+        "bio": "A recipe book app that allows users to add, view, and delete recipes. It's a great way to learn about CRUD operations and local storage in JavaScript.",
+        "htmlPath": "/projects/recipe-book-app/index.html",
+        "cssPath": "/projects/recipe-book-app/style.css",
+        "jsPath": "/projects/recipe-book-app/script.js"
     },
     {
         "id": 25,
         "title": "Rock Paper Scissors Game",
         "image": "",
-        "link": "../projects/rock-paper-scissors-game/index.html",
         "source": "",
-        "bio": "A simple rock-paper-scissors game where users can play against the computer. It's a great way to learn about game logic and JavaScript randomization."
+        "bio": "A simple rock-paper-scissors game where users can play against the computer. It's a great way to learn about game logic and JavaScript randomization.",
+        "htmlPath": "/projects/rock-paper-scissors-game/index.html",
+        "cssPath": "/projects/rock-paper-scissors-game/style.css",
+        "jsPath": "/projects/rock-paper-scissors-game/script.js"
     },
     {
         "id": 26,
         "title": "Save Kangroo Game",
         "image": "",
-        "link": "../projects/save-kangroo-game/index.html",
         "source": "",
-        "bio": "A fun game where users help a kangaroo avoid obstacles. It's a great way to learn about game logic, animations, and event handling in JavaScript."
+        "bio": "A fun game where users help a kangaroo avoid obstacles. It's a great way to learn about game logic, animations, and event handling in JavaScript.",
+        "htmlPath": "/projects/save-kangroo-game/index.html",
+        "cssPath": "/projects/save-kangroo-game/style.css",
+        "jsPath": "/projects/save-kangroo-game/script.js"
     },
     {
         "id": 27,
         "title": "Stopwatch",
         "image": "",
-        "link": "../projects/stopwatch/index.html",
         "source": "",
-        "bio": "A stopwatch project that allows users to start, stop, and reset a timer. It's a great way to learn about JavaScript timing functions and DOM manipulation."
+        "bio": "A stopwatch project that allows users to start, stop, and reset a timer. It's a great way to learn about JavaScript timing functions and DOM manipulation.",
+        "htmlPath": "/projects/stopwatch/index.html",
+        "cssPath": "/projects/stopwatch/style.css",
+        "jsPath": "/projects/stopwatch/script.js"
     },
     {
         "id": 28,
         "title": "Tip Calculator",
         "image": "",
-        "link": "../projects/tip-calculator/index.html",
         "source": "",
-        "bio": "A tip calculator that helps users calculate the tip amount based on the bill total and service quality. It's a great way to learn about form handling and JavaScript calculations."
+        "bio": "A tip calculator that helps users calculate the tip amount based on the bill total and service quality. It's a great way to learn about form handling and JavaScript calculations.",
+        "htmlPath": "/projects/tip-calculator/index.html",
+        "cssPath": "/projects/tip-calculator/style.css",
+        "jsPath": "/projects/tip-calculator/script.js"
     },
     {
         "id": 29,
         "title": "Video Trailer Popup",
         "image": "",
-        "link": "../projects/video-trailer-popup/index.html",
         "source": "",
-        "bio": "This project displays a video trailer in a popup window when a button is clicked. It's a great way to learn about modal windows and event handling in JavaScript."
+        "bio": "This project displays a video trailer in a popup window when a button is clicked. It's a great way to learn about modal windows and event handling in JavaScript.",
+        "htmlPath": "/projects/video-trailer-popup/index.html",
+        "cssPath": "/projects/video-trailer-popup/style.css",
+        "jsPath": "/projects/video-trailer-popup/script.js"
     },
     {
         "id": 30,
         "title": "Weather App",
         "image": "",
-        "link": "../projects/weather-app/index.html",
         "source": "",
-        "bio": "A weather app that fetches and displays the current weather conditions for a given location. It's a great way to learn about API integration and asynchronous JavaScript."
+        "bio": "A weather app that fetches and displays the current weather conditions for a given location. It's a great way to learn about API integration and asynchronous JavaScript.",
+        "htmlPath": "/projects/weather-app/index.html",
+        "cssPath": "/projects/weather-app/style.css",
+        "jsPath": "/projects/weather-app/script.js"
     },
     {
         "id": 31,
         "title": "Weight Converter",
         "image": "",
-        "link": "../projects/weight-converter/index.html",
         "source": "",
-        "bio": "A weight converter project that converts weights between kilograms, pounds, and ounces. It's a great way to learn about form inputs and JavaScript calculations."
+        "bio": "A weight converter project that converts weights between kilograms, pounds, and ounces. It's a great way to learn about form inputs and JavaScript calculations.",
+        "htmlPath": "/projects/weight-converter/index.html",
+        "cssPath": "/projects/weight-converter/style.css",
+        "jsPath": "/projects/weight-converter/script.js"
     },
     {
         "id": 32,
         "title": "English Dictionary App",
         "image": "",
-        "link": "../projects/english-dictionary-app/index.html",
         "source": "",
-        "bio": "An English dictionary app that allows users to search for word definitions. It's a great way to learn about API integration and dynamic content rendering."
+        "bio": "An English dictionary app that allows users to search for word definitions. It's a great way to learn about API integration and dynamic content rendering.",
+        "htmlPath": "/projects/english-dictionary-app/index.html",
+        "cssPath": "/projects/english-dictionary-app/style.css",
+        "jsPath": "/projects/english-dictionary-app/script.js"
     },
     {
         "id": 33,
         "title": "Photo Gallery",
         "image": "",
-        "link": "../projects/photo-gallery/index.html",
         "source": "",
-        "bio": "A photo gallery project that displays a collection of images in a grid layout. It's a great way to learn about CSS grid and image handling in web development."
+        "bio": "A photo gallery project that displays a collection of images in a grid layout. It's a great way to learn about CSS grid and image handling in web development.",
+        "htmlPath": "/projects/photo-gallery/index.html",
+        "cssPath": "/projects/photo-gallery/style.css",
+        "jsPath": "/projects/photo-gallery/script.js"
     },
     {
         "id": 34,
         "title": "Pomodoro Timer",
         "image": "",
-        "link": "../projects/pomodoro-timer/index.html",
         "source": "",
-        "bio": "A Pomodoro timer project that helps users manage their work and break times. It's a great way to learn about JavaScript timing functions and DOM manipulation."
+        "bio": "A Pomodoro timer project that helps users manage their work and break times. It's a great way to learn about JavaScript timing functions and DOM manipulation.",
+        "htmlPath": "/projects/pomodoro-timer/index.html",
+        "cssPath": "/projects/pomodoro-timer/style.css",
+        "jsPath": "/projects/pomodoro-timer/script.js"
     },
     {
         "id": 35,
         "title": "Press The Key Project",
         "image": "",
-        "link": "../projects/press-the-key-project/index.html",
         "source": "",
-        "bio": "This project displays the key pressed by the user on the screen. It's a great way to learn about event handling and DOM manipulation in JavaScript."
+        "bio": "This project displays the key pressed by the user on the screen. It's a great way to learn about event handling and DOM manipulation in JavaScript.",
+        "htmlPath": "/projects/press-the-key-project/index.html",
+        "cssPath": "/projects/press-the-key-project/style.css",
+        "jsPath": "/projects/press-the-key-project/script.js"
     },
     {
         "id": 36,
         "title": "Profile Stats",
         "image": "",
-        "link": "../projects/profile-stats/index.html",
         "source": "",
-        "bio": "A profile stats project that displays user statistics in a visually appealing way. It's a great way to learn about data visualization and CSS styling."
+        "bio": "A profile stats project that displays user statistics in a visually appealing way. It's a great way to learn about data visualization and CSS styling.",
+        "htmlPath": "/projects/profile-stats/index.html",
+        "cssPath": "/projects/profile-stats/style.css",
+        "jsPath": "/projects/profile-stats/script.js"
     },
     {
         "id": 37,
         "title": "Heart Trail Animation",
         "image": "",
-        "link": "../projects/heart-trail-animation/index.html",
         "source": "",
-        "bio": "This project creates a heart trail animation that follows the mouse cursor. It's a great way to learn about CSS animations and JavaScript event handling."
+        "bio": "This project creates a heart trail animation that follows the mouse cursor. It's a great way to learn about CSS animations and JavaScript event handling.",
+        "htmlPath": "/projects/heart-trail-animation/index.html",
+        "cssPath": "/projects/heart-trail-animation/style.css",
+        "jsPath": "/projects/heart-trail-animation/script.js"
     },
     {
         "id": 38,
         "title": "Image Search App",
         "image": "",
-        "link": "../projects/image-search-app/index.html",
         "source": "",
-        "bio": "An image search app that allows users to search for images using an external API. It's a great way to learn about API integration and dynamic content rendering."
+        "bio": "An image search app that allows users to search for images using an external API. It's a great way to learn about API integration and dynamic content rendering.",
+        "htmlPath": "/projects/image-search-app/index.html",
+        "cssPath": "/projects/image-search-app/style.css",
+        "jsPath": "/projects/image-search-app/script.js"
     },
     {
         "id": 39,
         "title": "Image Slider",
         "image": "",
-        "link": "../projects/image-slider/index.html",
         "source": "",
-        "bio": "An image slider project that displays a series of images in a slideshow format. It's a great way to learn about JavaScript timing functions and DOM manipulation."
+        "bio": "An image slider project that displays a series of images in a slideshow format. It's a great way to learn about JavaScript timing functions and DOM manipulation.",
+        "htmlPath": "/projects/image-slider/index.html",
+        "cssPath": "/projects/image-slider/style.css",
+        "jsPath": "/projects/image-slider/script.js"
     },
     {
         "id": 40,
         "title": "Loan Calculator",
         "image": "",
-        "link": "../projects/loan-calculator/index.html",
         "source": "",
-        "bio": "A loan calculator project that calculates monthly loan payments based on the loan amount, interest rate, and loan term. It's a great way to learn about form handling and JavaScript calculations."
+        "bio": "A loan calculator project that calculates monthly loan payments based on the loan amount, interest rate, and loan term. It's a great way to learn about form handling and JavaScript calculations.",
+        "htmlPath": "/projects/loan-calculator/index.html",
+        "cssPath": "/projects/loan-calculator/style.css",
+        "jsPath": "/projects/loan-calculator/script.js"
     },
     {
         "id": 41,
         "title": "Mouse Event Project",
         "image": "",
-        "link": "../projects/mouse-event-project/index.html",
         "source": "",
-        "bio": "This project demonstrates various mouse events like click, hover, and drag. It's a great way to learn about event handling and DOM manipulation in JavaScript."
+        "bio": "This project demonstrates various mouse events like click, hover, and drag. It's a great way to learn about event handling and DOM manipulation in JavaScript.",
+        "htmlPath": "/projects/mouse-event-project/index.html",
+        "cssPath": "/projects/mouse-event-project/style.css",
+        "jsPath": "/projects/mouse-event-project/script.js"
     },
     {
         "id": 42,
         "title": "Navbar",
         "image": "",
-        "link": "../projects/navbar/index.html",
         "source": "",
-        "bio": "A responsive navbar project that works seamlessly across different devices. It's a great way to learn about CSS flexbox and media queries."
+        "bio": "A responsive navbar project that works seamlessly across different devices. It's a great way to learn about CSS flexbox and media queries.",
+        "htmlPath": "/projects/navbar/index.html",
+        "cssPath": "/projects/navbar/style.css",
+        "jsPath": "/projects/navbar/script.js"
     },
     {
         "id": 43,
         "title": "Number Guessing Game",
         "image": "",
-        "link": "../projects/number-guessing-game/index.html",
         "source": "",
-        "bio": "A number guessing game where users guess a randomly generated number. It's a great way to learn about game logic and JavaScript randomization."
+        "bio": "A number guessing game where users guess a randomly generated number. It's a great way to learn about game logic and JavaScript randomization.",
+        "htmlPath": "/projects/number-guessing-game/index.html",
+        "cssPath": "/projects/number-guessing-game/style.css",
+        "jsPath": "/projects/number-guessing-game/script.js"
     },
     {
         "id": 44,
         "title": "Random Color",
         "image": "",
-        "link": "../projects/random-color/index.html",
         "source": "",
-        "bio": "This project generates random colors and displays them on the screen. It's a great way to learn about JavaScript randomization and DOM manipulation."
+        "bio": "This project generates random colors and displays them on the screen. It's a great way to learn about JavaScript randomization and DOM manipulation.",
+        "htmlPath": "/projects/random-color/index.html",
+        "cssPath": "/projects/random-color/style.css",
+        "jsPath": "/projects/random-color/script.js"
     },
     {
         "id": 45,
         "title": "Random Emoji",
         "image": "",
-        "link": "../projects/random-emoji/index.html",
         "source": "",
-        "bio": "This project displays random emojis on the screen. It's a fun way to learn about JavaScript randomization and DOM manipulation."
+        "bio": "This project displays random emojis on the screen. It's a fun way to learn about JavaScript randomization and DOM manipulation.",
+        "htmlPath": "/projects/random-emoji/index.html",
+        "cssPath": "/projects/random-emoji/style.css",
+        "jsPath": "/projects/random-emoji/script.js"
     },
     {
         "id": 46,
         "title": "Testimonial Slider",
         "image": "",
-        "link": "../projects/testimonial-slider/index.html",
         "source": "",
-        "bio": "A testimonial slider project that displays user testimonials in a slideshow format. It's a great way to learn about JavaScript timing functions and DOM manipulation."
+        "bio": "A testimonial slider project that displays user testimonials in a slideshow format. It's a great way to learn about JavaScript timing functions and DOM manipulation.",
+        "htmlPath": "/projects/testimonial-slider/index.html",
+        "cssPath": "/projects/testimonial-slider/style.css",
+        "jsPath": "/projects/testimonial-slider/script.js"
     },
     {
         "id": 47,
         "title": "Tic Tac Toe Game",
         "image": "",
-        "link": "../projects/tic-tac-toe-game/index.html",
         "source": "",
-        "bio": "A classic tic-tac-toe game where users can play against the computer. It's a great way to learn about game logic and JavaScript randomization."
+        "bio": "A classic tic-tac-toe game where users can play against the computer. It's a great way to learn about game logic and JavaScript randomization.",
+        "htmlPath": "/projects/tic-tac-toe-game/index.html",
+        "cssPath": "/projects/tic-tac-toe-game/style.css",
+        "jsPath": "/projects/tic-tac-toe-game/script.js"
     },
     {
         "id": 48,
         "title": "Digital Clock",
         "image": "",
-        "link": "../projects/digital-clock/index.html",
         "source": "",
-        "bio": "A digital clock project that displays the current time. It's a great way to learn about JavaScript date objects and DOM manipulation."
+        "bio": "A digital clock project that displays the current time. It's a great way to learn about JavaScript date objects and DOM manipulation.",
+        "htmlPath": "/projects/digital-clock/index.html",
+        "cssPath": "/projects/digital-clock/style.css",
+        "jsPath": "/projects/digital-clock/script.js"
     },
     {
         "id": 49,
         "title": "Bmi Calculator",
         "image": "",
-        "link": "../projects/bmi-calculator/index.html",
         "source": "",
-        "bio": "A BMI calculator project that calculates the Body Mass Index based on user inputs. It's a great way to learn about form handling and JavaScript calculations."
+        "bio": "A BMI calculator project that calculates the Body Mass Index based on user inputs. It's a great way to learn about form handling and JavaScript calculations.",
+        "htmlPath": "/projects/bmi-calculator/index.html",
+        "cssPath": "/projects/bmi-calculator/style.css",
+        "jsPath": "/projects/bmi-calculator/script.js"
     },
     {
         "id": 50,
         "title": "Color Scheme Switcher",
         "image": "",
-        "link": "../projects/color-scheme-switcher/index.html",
         "source": "",
-        "bio": "This project allows users to switch between different color schemes for a webpage. It's a great way to learn about CSS variables and JavaScript event handling."
+        "bio": "This project allows users to switch between different color schemes for a webpage. It's a great way to learn about CSS variables and JavaScript event handling.",
+        "htmlPath": "/projects/color-scheme-switcher/index.html",
+        "cssPath": "/projects/color-scheme-switcher/style.css",
+        "jsPath": "/projects/color-scheme-switcher/script.js"
     },
     {
         "id": 51,
         "title": "Calculator",
         "image": "",
-        "link": "../projects/calculator/index.html",
         "source": "",
-        "bio": "A simple calculator project that performs basic arithmetic operations. It's a great way to learn about JavaScript logic and DOM manipulation."
+        "bio": "A simple calculator project that performs basic arithmetic operations. It's a great way to learn about JavaScript logic and DOM manipulation.",
+        "htmlPath": "/projects/calculator/index.html",
+        "cssPath": "/projects/calculator/style.css",
+        "jsPath": "/projects/calculator/script.js"
     }
-]        
+]
