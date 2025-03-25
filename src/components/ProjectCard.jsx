@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 
 function ProjectCard({
     id,
-    image,
+    image="",
     title="",
     bio="",
 }) {
@@ -17,7 +17,7 @@ function ProjectCard({
             <img src={image} alt={title} className='object-cover' />
         </div>
         <div className='w-full flex flex-col gap-3'>
-            <div className='w-full flex flex-col justify-center items-center gap-2'>
+            <div className='w-full flex flex-col justify-center items-center gap-2 text-center'>
                 <h1>{title}</h1>
                 <p>{bio.substring(0, 100)}{bio.length > 100 ? '...' : ''}</p>
             </div>

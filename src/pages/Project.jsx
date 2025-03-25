@@ -32,7 +32,10 @@ function Project() {
         </div>
       </Container>
 
-      <Container className='mt-20'>
+      <Container className='mt-10'>
+        <div className='w-full text-center mb-10'>
+          <h1 className='text-4xl font-semibold text-[#FFFFFF]'>Live Demo</h1>
+        </div>
         {currProject &&
           <Demo
             url={currProject.htmlPath}
@@ -41,6 +44,9 @@ function Project() {
       </Container>
 
       <Container className='my-20'>
+      <div className='w-full text-center mb-10'>
+          <h1 className='text-4xl font-semibold text-[#FFFFFF]'>Source Code</h1>
+        </div>
         {currProject &&
           <Code
             id={currProject.id}

@@ -28,7 +28,7 @@ function AboutHero() {
       <div>
         <h1 className='text-4xl text-[#FFFFFF] text-center font-semibold'>Why BeginnerDev for Students?</h1>
       </div>
-      <div className='w-full flex justify-between items-center gap-5'>
+      <div className='w-full flex justify-between items-center gap-5 flex-wrap'>
         {features?.map((feature) => (
           <div key={feature.id} className=''>
             <AboutCard
