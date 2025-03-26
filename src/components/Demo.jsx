@@ -4,7 +4,6 @@ function Demo({
     url = "",
     title = "",
 }) {
-    console.log(url);
 
     return (
         <div className='w-full relative'>

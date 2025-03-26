@@ -12,8 +12,8 @@ function AboutHero() {
     {
       id: useId(),
       icon: <i className='fa-solid fa-laptop'></i>,
-      title: "Availablity",
-      para: "Gain hands-on experience with real-world API scenarios and projects."
+      title: "Demo & Source Code",
+      para: "Explore live demos of 50+ JavaScript projects and access their source code."
     },
     {
       id: useId(),
@@ -28,15 +28,14 @@ function AboutHero() {
       <div>
         <h1 className='text-4xl text-[#FFFFFF] text-center font-semibold'>Why BeginnerDev for Students?</h1>
       </div>
-      <div className='w-full flex justify-between items-center gap-5 flex-wrap'>
+      <div className='w-full mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-flow-row justify-items-stretch items-stretch gap-10'>
         {features?.map((feature) => (
-          <div key={feature.id} className=''>
-            <AboutCard
-              icon={feature.icon}
-              title={feature.title}
-              paragraph={feature.para}
-            />
-          </div>
+          <AboutCard
+            key={feature.id}
+            icon={feature.icon}
+            title={feature.title}
+            paragraph={feature.para}
+          />
         ))}
       </div>
     </div>

@@ -15,7 +15,6 @@ function Project() {
     if (id && projects.length > 0) {
       const selectedProject = projects.find((project) => project.id === Number(id));
       setCurrProject(selectedProject);
-      console.log(selectedProject);
     } else {
       navigate("/");
     }
@@ -23,7 +22,6 @@ function Project() {
 
   return (
     <div className='w-full'>
-      {console.log(currProject)}
 
       <Container className='mt-20'>
         <div className='w-full text-center flex flex-col justify-center items-center gap-5'>

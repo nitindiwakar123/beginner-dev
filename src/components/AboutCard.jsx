@@ -6,7 +6,7 @@ function AboutCard({
     paragraph=""
 }) {
   return (
-    <div className='flex flex-col justify-center items-center gap-5 py-5'>
+    <div className='w-full flex flex-col justify-center items-center gap-5 py-5'>
         <div className='text-[#60A5FA] text-4xl'>
             {icon}
         </div>

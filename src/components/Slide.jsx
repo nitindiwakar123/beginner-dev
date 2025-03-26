@@ -8,8 +8,10 @@ function Slide({
     className=""
 }) {
   return (
-    <div className={`w-full ${className}`}>
-        <div></div>
+    <div className={`w-full h-full ${className}`}>
+        <div className='w-full h-[80%]'>
+          <img src={video} alt={title} className='w-full h-full object-cover' />
+        </div>
         <div className='w-full'>
             <h1>{title}</h1>
             <p>{bio}</p>

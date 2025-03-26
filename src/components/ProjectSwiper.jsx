@@ -15,19 +15,19 @@ function ProjectSwiper() {
         {
             id: 26,
             title: "Save Kangroo Game",
-            video: "",
+            video: "/assets/save-kangroo-game.png",
             bio: "A fun game where users help a kangaroo avoid obstacles. It's a great way to learn about game logic, animations, and event handling in JavaScript."
         },
         {
             id: 24,
-            title: "Recipe Book App",
-            video: "",
+            title: "Heart Trail Animation",
+            video: "/assets/heart-trail-animation.png",
             bio: "A recipe book app that allows users to add, view, and delete recipes. It's a great way to learn about CRUD operations and local storage in JavaScript."
         },
         {
             id: 47,
             title: "Tic Tac Toe Game",
-            video: "",
+            video: "/assets/tic-tac-toe-game.png",
             bio: "A classic tic-tac-toe game where users can play against the computer. It's a great way to learn about game logic and JavaScript randomization."
         },
     ]
@@ -53,6 +53,7 @@ function ProjectSwiper() {
                         <Slide
                         id={project.id}
                         title={project.title} 
+                        video={project.video}
                         bio={project.bio}
                         />
                     </SwiperSlide>

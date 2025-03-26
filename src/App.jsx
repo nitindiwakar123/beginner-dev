@@ -8,7 +8,6 @@ import { setProjects } from "./features/projectSlice/projectSlice";
 function App() {
 
   const dispatch = useDispatch();
-console.log(projects);
 
   useEffect(() => {
     dispatch(setProjects(projects));

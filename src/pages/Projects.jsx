@@ -15,16 +15,15 @@ function Projects() {
       </Container>
 
       <Container className='mt-10 mb-20'>
-        <div className='w-full flex justify-between items-center flex-wrap gap-y-10'>
+        <div className='w-full mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-flow-row justify-items-stretch items-stretch gap-10'>
           {projects?.map((project) => (
-            <div key={project.id} className='w-[30%]'>
-              <ProjectCard
-                id={project.id}
-                image={project.image}
-                title={project.title}
-                bio={project.bio}
-              />
-            </div>
+            <ProjectCard
+              key={project.id}
+              id={project.id}
+              image={project.image}
+              title={project.title}
+              bio={project.bio}
+            />
           ))}
         </div>
       </Container>
