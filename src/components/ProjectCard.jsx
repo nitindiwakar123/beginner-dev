@@ -1,6 +1,7 @@
 import React from 'react';
 import {Button} from "./index";
 import { useNavigate } from 'react-router-dom';
+import { Tilt } from 'react-tilt';
 
 function ProjectCard({
     id,
@@ -12,7 +13,7 @@ function ProjectCard({
     const navigate = useNavigate();
 
   return (
-    <div className='w-full h-[480px] flex flex-col gap-6 rounded-xl overflow-hidden border-1 border-gray-400'>
+    <Tilt className='w-full h-[480px] flex flex-col gap-6 rounded-xl overflow-hidden border-1 border-gray-400'>
         <div className='w-full h-[50%] flex justify-center items-center overflow-hidden'>
             <img src={image} alt={title} className='object-cover w-full h-[300px]' />
         </div>
@@ -27,7 +28,7 @@ function ProjectCard({
                  onClick={() => navigate(`/project/${id}`)}>Get demo & code</Button>
             </div>
         </div>
-    </div>
+    </Tilt>
   )
 }
 
