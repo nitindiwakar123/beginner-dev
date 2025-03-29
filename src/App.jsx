@@ -4,6 +4,7 @@ import { Header, Footer } from './components'
 import projects from "../api/projects.json";
 import { useDispatch } from 'react-redux';
 import { setProjects } from "./features/projectSlice/projectSlice";
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
         <Outlet />
       </main>
       <Footer />
+      <Analytics />
     </div>
   )
 }
