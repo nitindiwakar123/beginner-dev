@@ -11,6 +11,7 @@ import AboutHero from "./AboutHero";
 import ProjectCard from "./ProjectCard";
 import Demo from "./Demo";
 import Code from "./Code";
+import SEO from "./SEO";
 
 export {
     Header,
@@ -25,5 +26,6 @@ export {
     AboutHero,
     ProjectCard,
     Demo,
-    Code
+    Code,
+    SEO
 }
