@@ -15,7 +15,6 @@ function About() {
         description={about.slice(0, 157).trim() + "..."}
       />
 
-      {console.log(document.title)}
       <Container className='my-20'>
         <AboutHero />
       </Container>

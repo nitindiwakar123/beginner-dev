@@ -21,7 +21,6 @@ function Projects() {
           <h1 className='text-4xl font-semibold text-[#FFFFFF]'>All Javacsript Projects</h1>
         </div>
       </Container>
-      {console.log(document.title)}
 
       <Container className='mt-10 mb-20'>
         <div className='w-full mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-flow-row justify-items-stretch items-stretch gap-10'>

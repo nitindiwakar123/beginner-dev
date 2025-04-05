@@ -40,7 +40,7 @@ function Home() {
       <Container className='mt-20'>
         <AboutHero />
       </Container>
-      {console.log(document.title)}
+      
       {randomProject &&
         <div className='w-full flex justify-center items-center my-20'>
           <Button

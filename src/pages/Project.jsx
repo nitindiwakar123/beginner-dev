@@ -38,7 +38,7 @@ function Project() {
             <p className='text-gray-400'>{currProject && currProject.bio}</p>
           </div>
         </Container>
-        {console.log(document.title)}
+        
         <Container className='mt-10'>
           <div className='w-full text-center mb-10'>
             <h1 className='text-4xl font-semibold text-[#FFFFFF]'>Live Demo</h1>
