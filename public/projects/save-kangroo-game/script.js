@@ -129,10 +129,12 @@ function getHighScore() {
 
 function endGame() {
     audioGameOver.play();
+    audioGo.pause();
+    audioGo.currentTime = 0;
     obstacle.classList.remove('obstacleAni');
     setTimeout(() => {
         audioGameOver.pause();
-        audioGo.pause();
+        audioGameOver.currentTime = 0;
     }, 1000);
     const newGame = document.querySelector('.newGame');
     newGame.addEventListener('click', () => {
